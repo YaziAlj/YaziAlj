@@ -2,7 +2,6 @@
 
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=YaziAlj&show_icons=true&theme=radical" />
 
-<img align = "left" width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaziAlj&layout=compact" />
   
     
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
